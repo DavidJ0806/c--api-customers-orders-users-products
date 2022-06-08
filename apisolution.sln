@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{49A1623F-BEE3-40CF-8C38-DBE0BAE0F2AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi.Tests", "TodoApi.Tests\TodoApi.Tests.csproj", "{FA38F2A8-ECEC-4DC3-ABD5-BD4DAF354FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A1623F-BEE3-40CF-8C38-DBE0BAE0F2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A1623F-BEE3-40CF-8C38-DBE0BAE0F2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A1623F-BEE3-40CF-8C38-DBE0BAE0F2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A1623F-BEE3-40CF-8C38-DBE0BAE0F2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA38F2A8-ECEC-4DC3-ABD5-BD4DAF354FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA38F2A8-ECEC-4DC3-ABD5-BD4DAF354FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA38F2A8-ECEC-4DC3-ABD5-BD4DAF354FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA38F2A8-ECEC-4DC3-ABD5-BD4DAF354FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
